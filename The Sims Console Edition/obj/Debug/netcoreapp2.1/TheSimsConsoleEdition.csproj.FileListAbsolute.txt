@@ -1,0 +1,11 @@
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\bin\Debug\netcoreapp2.1\TheSimsConsoleEdition.deps.json
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\bin\Debug\netcoreapp2.1\TheSimsConsoleEdition.runtimeconfig.json
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\bin\Debug\netcoreapp2.1\TheSimsConsoleEdition.runtimeconfig.dev.json
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\bin\Debug\netcoreapp2.1\TheSimsConsoleEdition.dll
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\bin\Debug\netcoreapp2.1\TheSimsConsoleEdition.pdb
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.csprojAssemblyReference.cache
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.AssemblyInfo.cs
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.dll
+C:\Users\George\Desktop\The Sims Console Edition\The Sims Console Edition\obj\Debug\netcoreapp2.1\TheSimsConsoleEdition.pdb
